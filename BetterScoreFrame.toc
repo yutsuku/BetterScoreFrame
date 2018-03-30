@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: BSF
+## Notes: Better Battlefield Score Frame. Colors player names by their class.
+## Author: moh@yutsuku.net (Evion @ Kronos)
+## Version: 1.0
+
+BetterScoreFrame.xml
