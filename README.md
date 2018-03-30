@@ -1,4 +1,4 @@
-BetterScoreFrame - a World of Warcraft (1.12.1) AddOn (modification)
+BetterScoreFrame - a World of Warcraft (1.12.1) AddOn
 ====================================
 
 Installation:
